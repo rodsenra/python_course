@@ -1,0 +1,383 @@
+David C 9/26/2018 11:47 AM
+Hi everyone, thank you for joining us today. We hope you enjoy the online training class. We will get started shortly.
+
+David C 9/26/2018 11:51 AM
+Where is everyone joining us from today?
+
+David C 9/26/2018 11:51 AM
+Please Note: The Group Chat will be part of the recording so please do not post personal information (such as ema il addresses) or anything confidential.
+
+David C 9/26/2018 11:56 AM
+Gilbert, AZ
+
+Kenneth P 9/26/2018 11:56 AM
+Austin, Tx
+
+gu c 9/26/2018 11:57 AM
+Nuremberg, Germany
+
+Paul H 9/26/2018 11:57 AM
+Newcastle, UK
+
+Shannon C 9/26/2018 11:57 AM
+Long Beach, California
+
+Ashok M 9/26/2018 11:57 AM
+Chennai, IN
+
+William O 9/26/2018 11:57 AM
+Hello everyone from Cali, Colombia
+
+Larry O 9/26/2018 11:58 AM
+Virginia
+
+Rodrigo S 9/26/2018 11:58 AM
+Welcome. Bien venidos!
+
+Aiwu M 9/26/2018 12:00 PM
+Hello everyone. I am from boston
+
+Alex L 9/26/2018 12:00 PM
+Washington DC
+
+William O 9/26/2018 12:01 PM
+Oi
+
+Hemalatha S 9/26/2018 12:01 PM
+Richmond VA
+
+Rodrigo S 9/26/2018 12:01 PM
+Welcome!
+
+Patricia R 9/26/2018 12:02 PM
+Hi
+
+d98a40df 0 9/26/2018 12:02 PM
+Carmel I ndiana
+
+Sebastian B 9/26/2018 12:02 PM
+Hello from Cali, Colombia
+
+Patricia R 9/26/2018 12:03 PM
+From Milton Keynes in UK
+
+Don S 9/26/2018 12:03 PM
+Fort Wayne, IN
+
+Pardeep T 9/26/2018 12:03 PM
+Twin Cities, MN
+
+Rodrigo S 9/26/2018 12:03 PM
+https://mybinder.org/v2/gh/rodsenra/python_course/master
+
+Marcelo M 9/26/2018 12:03 PM
+hi all, São Paulo Brazil.
+
+Sandipan D 9/26/2018 12:04 PM
+Columbus, OH
+
+immaculate w 9/26/2018 12:06 PM
+Nairobi, Kenya
+
+Hemalatha S 9/26/2018 12:08 PM
+How do I create a note book? I went to above link and I see
+
+Hemalatha S 9/26/2018 12:08 PM
+Never mind, I got it!
+
+Hemalatha S 9/26/2018 12:09 PM
+I created new notebook
+
+Hemalatha S 9/26/2018 12:09 PM
+Yes, that is what I did
+
+Brad G 9/26/2018 12:10 PM
+by saying that "everything is an object", is it fair that that means, its an instance of some class?
+
+Brad G 9/26/2018 12:13 PM
+thanks
+
+Richard C 9/26/2018 12:15 PM
+when I enter type[1], I got TypeE
+
+Amol G 9/26/2018 12:16 PM
+the font size is very small, please increase a little.
+
+Patricia R 9/26/2018 12:16 PM
+lease increase abit the font size
+
+Mareena K 9/26/2018 12:16 PM
+for me the audio keeps breaking..are others facing the same issue?
+
+Kenneth P 9/26/2018 12:16 PM
+nope
+
+Hemalatha S 9/26/2018 12:17 PM
+No
+
+Mareena K 9/26/2018 12:17 PM
+hmm
+
+Kenneth P 9/26/2018 12:17 PM
+have you tried increasing the size of the media player window?
+
+David C 9/26/2018 12:17 PM
+If you are having audio issues, please refresh your browser.
+
+Mareena K 9/26/2018 12:17 PM
+ok..let me try
+
+Patricia R 9/26/2018 12:17 PM
+good
+
+Amol G 9/26/2018 12:17 PM
+thanks.
+
+Hemalatha S 9/26/2018 12:18 PM
+Yes!
+
+Mareena K 9/26/2018 12:18 PM
+better now..thanks!
+
+Richard C 9/26/2018 12:19 PM
+Thanks a lot
+
+David C 9/26/2018 12:19 PM
+great!
+
+Hemalatha S 9/26/2018 12:19 PM
+If I type type(hi)
+
+Hemalatha S 9/26/2018 12:20 PM
+Will it say the type is char?
+
+Kenneth P 9/26/2018 12:20 PM
+no, but type('hi') will say str
+
+Hemalatha S 9/26/2018 12:21 PM
+Oh Ok..got it...as it is string I need to put in quotes
+
+Patricia R 9/26/2018 12:21 PM
+how we now all functions inside of decimal?
+
+Ashok M 9/26/2018 12:22 PM
+or that could be type('hi')
+
+Sandipan D 9/26/2018 12:23 PM
+Does the "dynamically typed" variable affects performance of Python as compared to C++ or Scala?
+
+Mareena K 9/26/2018 12:24 PM
+x holds the memory address where the object 12 is stored? kind of pointer
+
+Patricia R 9/26/2018 12:25 PM
+how we now all functions inside of decimal?
+
+Richard C 9/26/2018 12:29 PM
+if we del x, y should be null?
+
+Mareena K 9/26/2018 12:29 PM
+y=x shouldnt that have both x and y referencing to object 12
+
+Richard C 9/26/2018 12:31 PM
+great explain, Thanks a lot
+
+Ashok M 9/26/2018 12:36 PM
+please explain what it means when we type: c is x[0] ..is it a value comparison?
+
+Ashok M 9/26/2018 12:40 PM
+Thank you very much.
+
+Kenneth P 9/26/2018 12:43 PM
+is it correct that .strip() returns a new instance of the string? it doesn't modify the original?
+
+Kenneth P 9/26/2018 12:45 PM
+yes
+
+Richard C 9/26/2018 12:46 PM
+is id the real memory address or just an index maintained by python runtime?
+
+Naman U 9/26/2018 12:50 PM
+i changed it to 'sliced' why does it still prints slice? [4:9]
+
+Apal S 9/26/2018 12:51 PM
+d is the 9 and exclusived
+
+Naman U 9/26/2018 12:51 PM
+got it
+
+Kenneth P 9/26/2018 12:51 PM
+excluded
+
+Ashok M 9/26/2018 12:57 PM
+what is the escape character for { and } in f string
+
+Ashok M 9/26/2018 12:57 PM
+i.e if i want to print {latest} method
+
+Ashok M 9/26/2018 12:58 PM
+no
+
+Ashok M 9/26/2018 12:59 PM
+i tried that and it gave a different answer
+
+Kenneth P 9/26/2018 12:59 PM
+ashok, f"{{x}} method"
+
+Ashok M 9/26/2018 1:00 PM
+yes, thanks perfect..
+
+Jorge Esteban M 9/26/2018 1:05 PM
+could you please explain :: a gain
+
+Rodrigo S 9/26/2018 1:06 PM
+I am still here in case somebody has a pressing question :o)
+
+Naman U 9/26/2018 1:06 PM
+"y o uc a ns k i p"[::3]
+
+Naman U 9/26/2018 1:06 PM
+"you can also reverse: 1 2 3"[-1:-6:-1]
+
+Naman U 9/26/2018 1:06 PM
+can you just explain the output
+
+Rodrigo S 9/26/2018 1:06 PM
+Sure.
+
+Rodrigo S 9/26/2018 1:08 PM
+[-1:-6:-1] this means start at the end -1, and go to position -6, but from the right to the left (last -1)
+
+Rodrigo S 9/26/2018 1:08 PM
+Naman: try this "1 2 3"[::-1]
+
+Naman U 9/26/2018 1:08 PM
+okay
+
+Rodrigo S 9/26/2018 1:09 PM
+Awesome
+
+Naman U 9/26/2018 1:11 PM
+how did -6 end up giving me output 2 from "you can also reverse: 1 2 3"[-1:-6:-1] ?
+
+Rodrigo S 9/26/2018 1:14 PM
+The -6 was used just to remove the textual part from the string
+
+Rodrigo S 9/26/2018 1:15 PM
+Play with that value to see what happens
+
+Naman U 9/26/2018 1:15 PM
+okay thanks
+
+Pardeep T 9/26/2018 1:16 PM
+we are seeing you
+
+Pardeep T 9/26/2018 1:16 PM
+not the screen
+
+Charles G 9/26/2018 1:16 PM
+We are seeing you and not your screen
+
+Mario Alberto P 9/26/2018 1:17 PM
+Please show the screen
+
+Charles G 9/26/2018 1:17 PM
+We are seeing your video....
+
+Shannon C 9/26/2018 1:17 PM
+We see your screen. All set.
+
+Vanishree M 9/26/2018 1:23 PM
+Is there a sequence in pop() to more values?
+
+Vanishree M 9/26/2018 1:23 PM
+remove values
+
+Don S 9/26/2018 1:23 PM
+how do you reset a cell to it's original state?
+
+Vanishree M 9/26/2018 1:26 PM
+thanks
+
+Jeyasankar N 9/26/2018 1:28 PM
+is there a function available to convert a tuple into a set?
+
+JIN Y 9/26/2018 1:30 PM
+Could dictionary be used to link string with list?
+
+Tomasz Ł 9/26/2018 1:33 PM
+Yes, Python is very nice but there are some kind of problems like this : my_set = {0.3+0.3+0.3, 0.9}. Result is {0.8999999999999999, 0.9}. Why ? It means that 0.3+0.3+0.3==0.9 is False. Why? Should I write operation like 0.3+0.3+0.3 in different way ?
+
+Tomasz Ł 9/26/2018 1:36 PM
+thanks.
+
+David C 9/26/2018 1:57 PM
+https://www.safaribooksonline.com/live-training/courses/python-programming-fundamentals/0636920207283/survey/
+
+David C 9/26/2018 1:58 PM
+Your feedback is important to us. Please take a moment to complete our very short survey and tell us what you think of the course
+
+Hemalatha S 9/26/2018 1:58 PM
+We will have access to thi course documents?
+
+Rodrigo S 9/26/2018 1:59 PM
+https://github.com/rodsenra/python_course
+
+Ashok M 9/26/2018 1:59 PM
+Thank you very much for answering the questions patiently!
+
+William O 9/26/2018 2:00 PM
+The linki is in the resource list
+
+Naveen P 9/26/2018 2:00 PM
+Thanks Rodrigo
+
+chy P 9/26/2018 2:00 PM
+Thanks Rodrigo
+
+Prasada Reddy M 9/26/2018 2:00 PM
+Thank
+
+Gabriela G 9/26/2018 2:00 PM
+Thanks
+
+William O 9/26/2018 2:00 PM
+Hava a good one
+
+Mareena K 9/26/2018 2:00 PM
+Thanks
+
+Walter B 9/26/2018 2:00 PM
+thanks!
+
+gu c 9/26/2018 2:00 PM
+Thanks Rodrigo!
+
+Alex L 9/26/2018 2:00 PM
+Thank you!
+
+Rodrigo S 9/26/2018 2:00 PM
+Thanks everybody!
+
+Amol G 9/26/2018 2:00 PM
+thanks
+
+Jeyasankar N 9/26/2018 2:00 PM
+Thanks
+
+Vanishree M 9/26/2018 2:00 PM
+Thank you
+
+Robert R 9/26/2018 2:00 PM
+thanks
+
+Manoj K 9/26/2018 2:00 PM
+Thanks
+
+Joe N 9/26/2018 2:00 PM
+thanks
+
+Aiwu M 9/26/2018 2:00 PM
+thanks
+
+Sebastian B 9/26/2018 2:01 PM
+Thank you
